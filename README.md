@@ -1,7 +1,10 @@
+**A passionate Business Analyst and Data Scientist**
+
 - 👋 Hi, I’m Mohit Yadav
 - 👀 I’m interested in  Machine Learning 
 - 🌱 I’m currently learning Product Management
 - 💞️ I’m looking to collaborate on Data Science (Product)
+- 🤝 I’m looking for help with setting up my Portfolio
 - 📫 How to reach me [Email me](mailto:m.yadavzee@gmail.com?subject=[GitHub]%20Source%20Han%20Sans))
 
 <!---
