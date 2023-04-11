@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on Data Science (Product)
 - 🤝 I’m looking for help with setting up my Portfolio
 - ⚡ Fun fact: I love to play CS-GO 
-- 📄 Know about my experiences [click_here](https://drive.google.com/drive/u/0/search?q=mohit%20yadav)
 - 📫 How to reach me [Email me](mailto:m.yadavzee@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
